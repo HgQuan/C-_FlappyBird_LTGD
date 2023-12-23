@@ -1,0 +1,46 @@
+C:\Users\Anhar Ali\Documents\Visual Studio 2017\Projects\Flappy Bird Windows Form\Flappy Bird Windows Form\bin\Debug\Flappy Bird Windows Form.exe.config
+C:\Users\Anhar Ali\Documents\Visual Studio 2017\Projects\Flappy Bird Windows Form\Flappy Bird Windows Form\bin\Debug\Flappy Bird Windows Form.exe
+C:\Users\Anhar Ali\Documents\Visual Studio 2017\Projects\Flappy Bird Windows Form\Flappy Bird Windows Form\bin\Debug\Flappy Bird Windows Form.pdb
+C:\Users\Anhar Ali\Documents\Visual Studio 2017\Projects\Flappy Bird Windows Form\Flappy Bird Windows Form\obj\Debug\Flappy Bird Windows Form.csprojResolveAssemblyReference.cache
+C:\Users\Anhar Ali\Documents\Visual Studio 2017\Projects\Flappy Bird Windows Form\Flappy Bird Windows Form\obj\Debug\Flappy_Bird_Windows_Form.Form1.resources
+C:\Users\Anhar Ali\Documents\Visual Studio 2017\Projects\Flappy Bird Windows Form\Flappy Bird Windows Form\obj\Debug\Flappy_Bird_Windows_Form.Properties.Resources.resources
+C:\Users\Anhar Ali\Documents\Visual Studio 2017\Projects\Flappy Bird Windows Form\Flappy Bird Windows Form\obj\Debug\Flappy Bird Windows Form.csproj.GenerateResource.Cache
+C:\Users\Anhar Ali\Documents\Visual Studio 2017\Projects\Flappy Bird Windows Form\Flappy Bird Windows Form\obj\Debug\Flappy Bird Windows Form.csproj.CoreCompileInputs.cache
+C:\Users\Anhar Ali\Documents\Visual Studio 2017\Projects\Flappy Bird Windows Form\Flappy Bird Windows Form\obj\Debug\Flappy Bird Windows Form.exe
+C:\Users\Anhar Ali\Documents\Visual Studio 2017\Projects\Flappy Bird Windows Form\Flappy Bird Windows Form\obj\Debug\Flappy Bird Windows Form.pdb
+C:\Users\HP\OneDrive\Máy tính\C-Flappy-Bird-Game-Windows-Form-main\Flappy Bird Windows Form\Flappy Bird Windows Form\bin\Debug\Flappy Bird Windows Form.exe.config
+C:\Users\HP\OneDrive\Máy tính\C-Flappy-Bird-Game-Windows-Form-main\Flappy Bird Windows Form\Flappy Bird Windows Form\bin\Debug\Flappy Bird Windows Form.exe
+C:\Users\HP\OneDrive\Máy tính\C-Flappy-Bird-Game-Windows-Form-main\Flappy Bird Windows Form\Flappy Bird Windows Form\bin\Debug\Flappy Bird Windows Form.pdb
+C:\Users\HP\OneDrive\Máy tính\C-Flappy-Bird-Game-Windows-Form-main\Flappy Bird Windows Form\Flappy Bird Windows Form\obj\Debug\Flappy Bird Windows Form.csproj.AssemblyReference.cache
+C:\Users\HP\OneDrive\Máy tính\C-Flappy-Bird-Game-Windows-Form-main\Flappy Bird Windows Form\Flappy Bird Windows Form\obj\Debug\Flappy Bird Windows Form.csproj.SuggestedBindingRedirects.cache
+C:\Users\HP\OneDrive\Máy tính\C-Flappy-Bird-Game-Windows-Form-main\Flappy Bird Windows Form\Flappy Bird Windows Form\obj\Debug\Flappy_Bird_Windows_Form.Form1.resources
+C:\Users\HP\OneDrive\Máy tính\C-Flappy-Bird-Game-Windows-Form-main\Flappy Bird Windows Form\Flappy Bird Windows Form\obj\Debug\Flappy_Bird_Windows_Form.Properties.Resources.resources
+C:\Users\HP\OneDrive\Máy tính\C-Flappy-Bird-Game-Windows-Form-main\Flappy Bird Windows Form\Flappy Bird Windows Form\obj\Debug\Flappy Bird Windows Form.csproj.GenerateResource.cache
+C:\Users\HP\OneDrive\Máy tính\C-Flappy-Bird-Game-Windows-Form-main\Flappy Bird Windows Form\Flappy Bird Windows Form\obj\Debug\Flappy Bird Windows Form.csproj.CoreCompileInputs.cache
+C:\Users\HP\OneDrive\Máy tính\C-Flappy-Bird-Game-Windows-Form-main\Flappy Bird Windows Form\Flappy Bird Windows Form\obj\Debug\Flappy Bird Windows Form.exe
+C:\Users\HP\OneDrive\Máy tính\C-Flappy-Bird-Game-Windows-Form-main\Flappy Bird Windows Form\Flappy Bird Windows Form\obj\Debug\Flappy Bird Windows Form.pdb
+C:\Users\HP\OneDrive\Máy tính\C-Flappy-Bird-Game-Windows-Form-main\Flappy Bird Windows Form\Flappy Bird Windows Form\obj\Debug\Flappy_Bird_Windows_Form.FormBegin.resources
+D:\DownloadD\C-Flappy-Bird-Game-Windows-Form-main-20230327T064604Z-001\C-Flappy-Bird-Game-Windows-Form-main\Flappy Bird Windows Form\Flappy Bird Windows Form\obj\Debug\Flappy Bird Windows Form.csproj.AssemblyReference.cache
+D:\DownloadD\C-Flappy-Bird-Game-Windows-Form-main-20230327T064604Z-001\C-Flappy-Bird-Game-Windows-Form-main\Flappy Bird Windows Form\Flappy Bird Windows Form\obj\Debug\Flappy_Bird_Windows_Form.Form1.resources
+D:\DownloadD\C-Flappy-Bird-Game-Windows-Form-main-20230327T064604Z-001\C-Flappy-Bird-Game-Windows-Form-main\Flappy Bird Windows Form\Flappy Bird Windows Form\obj\Debug\Flappy_Bird_Windows_Form.FormBegin.resources
+D:\DownloadD\C-Flappy-Bird-Game-Windows-Form-main-20230327T064604Z-001\C-Flappy-Bird-Game-Windows-Form-main\Flappy Bird Windows Form\Flappy Bird Windows Form\obj\Debug\Flappy_Bird_Windows_Form.Properties.Resources.resources
+D:\DownloadD\C-Flappy-Bird-Game-Windows-Form-main-20230327T064604Z-001\C-Flappy-Bird-Game-Windows-Form-main\Flappy Bird Windows Form\Flappy Bird Windows Form\obj\Debug\Flappy Bird Windows Form.csproj.GenerateResource.cache
+D:\DownloadD\C-Flappy-Bird-Game-Windows-Form-main-20230327T064604Z-001\C-Flappy-Bird-Game-Windows-Form-main\Flappy Bird Windows Form\Flappy Bird Windows Form\obj\Debug\Flappy Bird Windows Form.csproj.CoreCompileInputs.cache
+D:\DownloadD\C-Flappy-Bird-Game-Windows-Form-main-20230327T064604Z-001\C-Flappy-Bird-Game-Windows-Form-main\Flappy Bird Windows Form\Flappy Bird Windows Form\obj\Debug\Flappy Bird Windows Form.exe
+D:\DownloadD\C-Flappy-Bird-Game-Windows-Form-main-20230327T064604Z-001\C-Flappy-Bird-Game-Windows-Form-main\Flappy Bird Windows Form\Flappy Bird Windows Form\obj\Debug\Flappy Bird Windows Form.pdb
+D:\DownloadD\C-Flappy-Bird-Game-Windows-Form-main-20230327T064604Z-001\C-Flappy-Bird-Game-Windows-Form-main\Flappy Bird Windows Form\Flappy Bird Windows Form\bin\Debug\Flappy Bird Windows Form.exe.config
+D:\DownloadD\C-Flappy-Bird-Game-Windows-Form-main-20230327T064604Z-001\C-Flappy-Bird-Game-Windows-Form-main\Flappy Bird Windows Form\Flappy Bird Windows Form\bin\Debug\Flappy Bird Windows Form.exe
+D:\DownloadD\C-Flappy-Bird-Game-Windows-Form-main-20230327T064604Z-001\C-Flappy-Bird-Game-Windows-Form-main\Flappy Bird Windows Form\Flappy Bird Windows Form\bin\Debug\Flappy Bird Windows Form.pdb
+C:\Users\pc\Downloads\Compressed\C-Flappy-Bird-Game-Windows-Form-main (2)\C-Flappy-Bird-Game-Windows-Form-main\Flappy Bird Windows Form\Flappy Bird Windows Form\bin\Debug\Flappy Bird Windows Form.exe.config
+C:\Users\pc\Downloads\Compressed\C-Flappy-Bird-Game-Windows-Form-main (2)\C-Flappy-Bird-Game-Windows-Form-main\Flappy Bird Windows Form\Flappy Bird Windows Form\bin\Debug\Flappy Bird Windows Form.exe
+C:\Users\pc\Downloads\Compressed\C-Flappy-Bird-Game-Windows-Form-main (2)\C-Flappy-Bird-Game-Windows-Form-main\Flappy Bird Windows Form\Flappy Bird Windows Form\bin\Debug\Flappy Bird Windows Form.pdb
+C:\Users\pc\Downloads\Compressed\C-Flappy-Bird-Game-Windows-Form-main (2)\C-Flappy-Bird-Game-Windows-Form-main\Flappy Bird Windows Form\Flappy Bird Windows Form\obj\Debug\Flappy Bird Windows Form.csproj.AssemblyReference.cache
+C:\Users\pc\Downloads\Compressed\C-Flappy-Bird-Game-Windows-Form-main (2)\C-Flappy-Bird-Game-Windows-Form-main\Flappy Bird Windows Form\Flappy Bird Windows Form\obj\Debug\Interop.WMPLib.dll
+C:\Users\pc\Downloads\Compressed\C-Flappy-Bird-Game-Windows-Form-main (2)\C-Flappy-Bird-Game-Windows-Form-main\Flappy Bird Windows Form\Flappy Bird Windows Form\obj\Debug\Flappy Bird Windows Form.csproj.ResolveComReference.cache
+C:\Users\pc\Downloads\Compressed\C-Flappy-Bird-Game-Windows-Form-main (2)\C-Flappy-Bird-Game-Windows-Form-main\Flappy Bird Windows Form\Flappy Bird Windows Form\obj\Debug\Flappy_Bird_Windows_Form.FormBegin.resources
+C:\Users\pc\Downloads\Compressed\C-Flappy-Bird-Game-Windows-Form-main (2)\C-Flappy-Bird-Game-Windows-Form-main\Flappy Bird Windows Form\Flappy Bird Windows Form\obj\Debug\Flappy_Bird_Windows_Form.Properties.Resources.resources
+C:\Users\pc\Downloads\Compressed\C-Flappy-Bird-Game-Windows-Form-main (2)\C-Flappy-Bird-Game-Windows-Form-main\Flappy Bird Windows Form\Flappy Bird Windows Form\obj\Debug\Flappy Bird Windows Form.csproj.GenerateResource.cache
+C:\Users\pc\Downloads\Compressed\C-Flappy-Bird-Game-Windows-Form-main (2)\C-Flappy-Bird-Game-Windows-Form-main\Flappy Bird Windows Form\Flappy Bird Windows Form\obj\Debug\Flappy Bird Windows Form.csproj.CoreCompileInputs.cache
+C:\Users\pc\Downloads\Compressed\C-Flappy-Bird-Game-Windows-Form-main (2)\C-Flappy-Bird-Game-Windows-Form-main\Flappy Bird Windows Form\Flappy Bird Windows Form\obj\Debug\Flappy Bird Windows Form.exe
+C:\Users\pc\Downloads\Compressed\C-Flappy-Bird-Game-Windows-Form-main (2)\C-Flappy-Bird-Game-Windows-Form-main\Flappy Bird Windows Form\Flappy Bird Windows Form\obj\Debug\Flappy Bird Windows Form.pdb
+C:\Users\pc\Downloads\Compressed\C-Flappy-Bird-Game-Windows-Form-main (2)\C-Flappy-Bird-Game-Windows-Form-main\Flappy Bird Windows Form\Flappy Bird Windows Form\obj\Debug\Flappy_Bird_Windows_Form.FormPlay.resources
